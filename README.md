@@ -1,5 +1,5 @@
-# LinterGPT
-Code linter for any kind of code or modeling language
+# GPTreview
+Code linter for any kind of code or modeling language using openAI API
 
 ## Specs
 * Can be used containerized in a runner (Github actions etc.)
